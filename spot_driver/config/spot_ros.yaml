@@ -6,9 +6,9 @@ rates:
   robot_state: 20.0
   metrics: 0.04
   lease: 1.0
-  camera_images: 10.0
+  camera_images: 15.0
   point_cloud: 10.0
-  hand_image: 10.0
+  hand_image: 15.0
   feedback: 10.0
   mobility_params: 20.0
   check_subscribers: 10.0
